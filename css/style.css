@@ -1,0 +1,43 @@
+
+body{
+  background-color: #ececec;
+}
+
+.jumbotron{
+  background-color: white;
+
+}
+.col-9{
+  background-color: white;
+
+}
+.topnav{
+  border-bottom: #cdcdcd solid 1px;
+}
+.logo{
+  background-color: #5aaaa4;
+  text-align: center;
+}
+.topfooter{
+  background-color: #5aaaa4;
+}
+.bottom{
+  background-color: #666666;
+  height: 60px;
+}
+#Logomargin{
+  margin: 0px;
+}
+.col-6{
+  max-width: 100%;
+}
+
+ul .nav
+{
+  text-align: center;
+  background-color: #a3a3ab;
+}
+
+.nav-item{
+  color: grey;
+}
